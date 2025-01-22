@@ -1,8 +1,8 @@
 Gizmos
 
-Contributor:
+Contributors:
 
-Avery Gruschkus
+Jessica Han, Holly Racicot, Dennis Wei
 
 Purpose:
 
